@@ -1,5 +1,5 @@
- const API_URL = "http://dinner-trapped-culprit.ngrok-free.dev/api/project-files";
-const API_KEY = "FFFSoiVmoTIpFAM5CEeyglUkWLywnbSp";
+ const API_URL = "http://dinner-trapped-culprit.ngrok-free.dev/api/project-filesX-Project-Key: 4DHmtwOy6GDle9altN7oLYRpQh99KOm7";
+const API_KEY = "4DHmtwOy6GDle9altN7oLYRpQh99KOm7";
 
 // رفع الملفات
 const uploadForm = document.getElementById("uploadForm");
